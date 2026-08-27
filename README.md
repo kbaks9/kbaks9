@@ -11,10 +11,10 @@ My current toolkit includes Microsoft Azure, Terraform, Docker, Linux and GitHub
 - WordPress Deployment
 
 🔭 Currently working on ...
-An Azure Hub & Spoke architecture using Terraform, featuring Azure Firewall, Bastion, VM Scale Sets, and much more.
+- An Azure Hub & Spoke architecture using Terraform, featuring Azure Firewall, Bastion, VM Scale Sets, and much more.
 
 📌 Next project ...
-DR Failover — an Azure disaster recovery and failover solution.
+- DR Failover — an Azure disaster recovery and failover solution.
 
 ⚡ Outside of tech ...
 - I'm a big Arsenal fan! 🔴⚪
